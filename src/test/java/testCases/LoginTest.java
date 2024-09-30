@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class LoginTest extends BaseClass {
 
-	@Test
+	@Test(groups = { "Regression", "Master" })
 	public void validateLogin() {
 		logger.info("***** Starting Login Test *****");
 		logger.debug("capturing application debug logs.....");

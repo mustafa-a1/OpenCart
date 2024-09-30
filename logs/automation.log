@@ -1,112 +1,300 @@
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 8 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
+2024-09-29 10:04:12 INFO  Utils:112 -
 			[TestNG] Running:
-  C:\Users\mabdu\AppData\Local\Temp\testng-eclipse--1855092806\testng-customsuite.xml
+  C:\PS_QA\AutomationSept24\OpenCart\grouping.xml
 
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.internal.ExitCodeListener@36ac8a63: 0 ms
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@433ffad1: 30 ms
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.jq.Main@3a7704c: 56 ms
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.FailedReporter@22ee2d0: 9 ms
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.XMLReporter@6b739528: 10 ms
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.EmailableReporter2@49ef32e0: 8 ms
-2024-09-22 11:10:33 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@315df4bb: 6 ms
-2024-09-22 11:43:54 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\PS_QA\AutomationSept24\OpenCart\master.xml
-
-2024-09-22 11:43:56 INFO  LoginTest:46 -
+2024-09-29 10:04:14 INFO  LoginTest:54 -
 			***************Launching application****************
-2024-09-22 11:43:59 INFO  LoginTest:15 -
+2024-09-29 10:04:19 INFO  LoginTest:15 -
 			***** Starting Login Test *****
-2024-09-22 11:43:59 INFO  LoginTest:23 -
+2024-09-29 10:04:19 INFO  LoginTest:23 -
 			***** Clicked on login link under myAccount *****
-2024-09-22 11:43:59 INFO  LoginTest:27 -
+2024-09-29 10:04:19 INFO  LoginTest:27 -
 			***** Adding credentials *****
-2024-09-22 11:44:00 INFO  LoginTest:31 -
+2024-09-29 10:04:20 INFO  LoginTest:31 -
 			***** Clicked on login button *****
-2024-09-22 11:44:00 INFO  LoginTest:40 -
+2024-09-29 10:04:20 INFO  LoginTest:40 -
 			***** Login Test Completed *****
-2024-09-22 11:46:15 INFO  Utils:112 -
+2024-09-29 12:23:50 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\grouping.xml
+
+2024-09-29 12:23:52 INFO  AccountRegistrationTest:59 -
+			***************Launching application****************
+2024-09-29 12:23:55 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 12:23:55 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 12:23:56 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 12:23:56 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 12:23:58 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 12:23:58 INFO  AccountRegistrationTest:43 -
+			Account Registeration Test Passed
+2024-09-29 12:23:58 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 12:23:59 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 12:24:06 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 12:24:06 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 12:24:06 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 12:24:08 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 12:24:08 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 12:30:19 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\grouping.xml
+
+2024-09-29 12:30:21 INFO  AccountRegistrationTest:59 -
+			***************Launching application****************
+2024-09-29 12:30:24 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 12:30:24 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 12:30:25 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 12:30:25 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 12:30:26 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 12:30:26 INFO  AccountRegistrationTest:43 -
+			Account Registeration Test Passed
+2024-09-29 12:30:26 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 12:30:27 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 12:30:31 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 12:30:31 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 12:30:31 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 12:30:32 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 12:30:47 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 12:35:07 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\grouping.xml
+
+2024-09-29 12:35:09 INFO  AccountRegistrationTest:59 -
+			***************Launching application****************
+2024-09-29 12:35:12 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 12:35:12 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 12:35:13 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 12:35:13 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 12:35:15 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 12:35:15 INFO  AccountRegistrationTest:43 -
+			Account Registeration Test Passed
+2024-09-29 12:35:15 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 12:35:16 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 12:35:19 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 12:35:20 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 12:35:20 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 12:35:21 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 12:35:36 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 12:39:41 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\grouping.xml
+
+2024-09-29 12:39:43 INFO  AccountRegistrationTest:59 -
+			***************Launching application****************
+2024-09-29 12:39:46 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 12:39:46 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 12:39:47 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 12:39:47 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 12:39:48 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 12:39:48 INFO  AccountRegistrationTest:43 -
+			Account Registeration Test Passed
+2024-09-29 12:39:48 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 12:39:49 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 12:39:53 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 12:39:53 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 12:39:53 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 12:39:54 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 12:40:09 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 13:14:15 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\test-output\testng-failed.xml
+
+2024-09-29 13:14:16 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 13:14:19 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 13:14:19 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 13:14:19 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 13:14:20 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 13:14:35 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 13:15:35 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\test-output\testng-failed.xml
+
+2024-09-29 13:15:36 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 13:15:39 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 13:15:39 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 13:15:39 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 13:15:40 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 13:15:40 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 13:18:37 INFO  Utils:112 -
 			[TestNG] Running:
   C:\PS_QA\AutomationSept24\OpenCart\master.xml
 
-2024-09-22 11:46:16 INFO  LoginTest:46 -
+2024-09-29 13:18:39 INFO  AccountRegistrationTest:59 -
 			***************Launching application****************
-2024-09-22 11:46:19 INFO  LoginTest:15 -
+2024-09-29 13:18:42 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 13:18:42 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 13:18:43 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 13:18:43 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 13:18:44 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 13:18:44 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 13:18:45 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 13:18:48 INFO  LoginTest:15 -
 			***** Starting Login Test *****
-2024-09-22 11:46:19 INFO  LoginTest:23 -
+2024-09-29 13:18:49 INFO  LoginTest:23 -
 			***** Clicked on login link under myAccount *****
-2024-09-22 11:46:19 INFO  LoginTest:27 -
+2024-09-29 13:18:49 INFO  LoginTest:27 -
 			***** Adding credentials *****
-2024-09-22 11:46:20 INFO  LoginTest:31 -
+2024-09-29 13:18:50 INFO  LoginTest:31 -
 			***** Clicked on login button *****
-2024-09-22 11:46:20 INFO  LoginTest:40 -
+2024-09-29 13:18:50 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 13:21:10 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\master.xml
+
+2024-09-29 13:21:12 INFO  AccountRegistrationTest:59 -
+			***************Launching application****************
+2024-09-29 13:21:15 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 13:21:15 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 13:21:16 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 13:21:16 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 13:21:17 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 13:21:17 INFO  AccountRegistrationTest:43 -
+			Account Registeration Test Passed
+2024-09-29 13:21:17 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 13:21:18 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 13:21:21 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 13:21:22 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 13:21:22 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 13:21:23 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 13:21:23 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 13:23:32 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\master.xml
+
+2024-09-29 13:23:34 INFO  AccountRegistrationTest:59 -
+			***************Launching application****************
+2024-09-29 13:23:36 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 13:23:36 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 13:23:37 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 13:23:37 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 13:23:39 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 13:23:39 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 13:23:40 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 13:23:43 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 13:23:43 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 13:23:43 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 13:23:44 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 13:23:59 INFO  LoginTest:40 -
+			***** Login Test Completed *****
+2024-09-29 13:25:58 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\OpenCart\master.xml
+
+2024-09-29 13:26:00 INFO  AccountRegistrationTest:59 -
+			***************Launching application****************
+2024-09-29 13:26:02 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-09-29 13:26:02 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-09-29 13:26:03 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-09-29 13:26:03 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-09-29 13:26:05 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-09-29 13:26:05 INFO  AccountRegistrationTest:43 -
+			Account Registeration Test Passed
+2024-09-29 13:26:05 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-09-29 13:26:06 INFO  LoginTest:59 -
+			***************Launching application****************
+2024-09-29 13:26:09 INFO  LoginTest:15 -
+			***** Starting Login Test *****
+2024-09-29 13:26:09 INFO  LoginTest:23 -
+			***** Clicked on login link under myAccount *****
+2024-09-29 13:26:09 INFO  LoginTest:27 -
+			***** Adding credentials *****
+2024-09-29 13:26:11 INFO  LoginTest:31 -
+			***** Clicked on login button *****
+2024-09-29 13:26:11 INFO  LoginTest:40 -
 			***** Login Test Completed *****

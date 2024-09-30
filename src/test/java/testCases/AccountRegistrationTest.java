@@ -9,7 +9,7 @@ import testBase.BaseClass;
 
 public class AccountRegistrationTest extends BaseClass {
 
-	@Test
+	@Test(groups = { "Sanity", "Master" })
 	public void validateAccountRegistration() {
 		logger.info("************** Starting Account Registration Test **************");
 		logger.debug("##### This is a debug log message #####");
@@ -21,10 +21,10 @@ public class AccountRegistrationTest extends BaseClass {
 			homePage.clickOnMyAccount();
 			homePage.clickOnRegister();
 			logger.info("Clicked on Register link");
-			
+
 			// Create an object of RegistrationPage
 			RegistrationPage regPage = new RegistrationPage(driver);
-			
+
 			logger.info("Providing customer information");
 			regPage.setFirstName(randomString().toUpperCase());
 			regPage.setLastName(randomString().toUpperCase());
